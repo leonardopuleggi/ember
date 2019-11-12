@@ -1,4 +1,4 @@
-# Ember starte applications
+# Ember basic applications
 
 Basic Ember applications at different LTS
 
