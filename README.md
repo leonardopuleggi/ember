@@ -12,7 +12,7 @@ LTS versions [https://emberjs.com/releases/lts/](https://emberjs.com/releases/lt
 ## Usage
 
 * `git clone <repository-url>` this repository
-* `cd starterXYZ` - in the version you want to test out (3.4, 3.8, 3.12, etc.)
+* `cd starterXYZ` - in the version you want to test out (3.4, 3.8, 3.12, 3.16, 3.20, etc.)
 * `npm install`
 * `npm start` - it'll use the local Ember in node_modules and start the development server on localhost:4200
 * Visit your app at [http://localhost:4200](http://localhost:4200).
